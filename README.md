@@ -34,3 +34,8 @@ Results on the Speech recognition data set Test set
 <p align="center">
   <img src="https://raw.githubusercontent.com/eyalbd2/Kaglle-Tensorflow-Speech-Recognition/master/Images/result_table.PNG" width="400" title="Results_table">
 </p>
+
+## Authors
+
+* **Etai Wagner** 
+* **Eyal Ben David** 
