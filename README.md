@@ -7,9 +7,9 @@ performance will open a completely new way to interact with devices and offer ne
 haven’t thought of before. In this Project we test state of the art methods in machine learning using
 deep neural networks for “understanding” words and develop new architectures that try to capture
 all the features of human language.
-####Keywords: Deep Neural Networks, Speech Recognition, Speech Classification 
+#### Keywords: Deep Neural Networks, Speech Recognition, Speech Classification 
 
-##Model
+## Model
 We aim to build a Deep neural network that will be able to distinguish between 12 classes: 'Yes',
 'No', 'Up', 'Down', 'Left', 'Right', 'On', 'Off', 'Stop', 'Go', Silence and Unknown. The input data to the
 net are 1 second recordings of different people saying a word. Below are schematics of the Networks
@@ -21,7 +21,7 @@ tested.
   <img src="https://raw.githubusercontent.com/eyalbd2/Kaglle-Tensorflow-Speech-Recognition/master/Images/model_image_2.PNG" width="400" title="model_2">
 </p>
 
-##Results
+## Results
 The Networks where tested on the Kaggle TensorFlow Speech Recognition Challenge – data set 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eyalbd2/Kaglle-Tensorflow-Speech-Recognition/master/Images/precision_recall.PNG" width="400" title="precision_recall_1">
